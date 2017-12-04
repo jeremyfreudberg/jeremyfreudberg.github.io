@@ -1,0 +1,32 @@
+body {
+    margin: 60px auto;
+    width: 50%;
+    background-color: #f8f8f8;
+}
+a {
+    text-decoration: none;
+    color: #999;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 2em;
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+}
+h2 {
+    font-size: 1.25em;
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+}
+p {
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1em;
+    line-height: 1.2em;
+    color: #333;
+}
+#outer {
+    position: relative;
+    margin: 0 auto 0 auto;
+    padding: 50px 100px 80px 100px;
+    background-color: #f8f8cf;
+}
